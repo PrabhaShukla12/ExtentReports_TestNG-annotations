@@ -3,7 +3,7 @@
 <suite name="Suite">
 	<test name="Test Google">
 		<parameter name="browserName" value="Chrome" />
-		<parameter name="author" value="Yadagiri" />
+		<parameter name="author" value="Prabha Shukla" />
 		<classes>
 			<class name="com.hyr.Tests.TestClass">
 				<methods>
@@ -14,7 +14,7 @@
 	</test> <!-- Test -->
 	<test name="Test Facebook">
 		<parameter name="browserName" value="Firefox" />
-		<parameter name="author" value="Jeevan" />
+		<parameter name="author" value="Jeevan Sharma" />
 		<classes>
 			<class name="com.hyr.Tests.TestClass">
 				<methods>
@@ -25,7 +25,7 @@
 	</test> <!-- Test -->
 	<test name="Test OrangeHRM">
 		<parameter name="browserName" value="Edge" />
-		<parameter name="author" value="Aarti" />
+		<parameter name="author" value="Aarti Yadav" />
 		<classes>
 			<class name="com.hyr.Tests.TestClass">
 				<methods>
@@ -34,4 +34,5 @@
 			</class>
 		</classes>
 	</test> <!-- Test -->
+
 </suite> <!-- Suite -->
